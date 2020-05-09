@@ -1,12 +1,8 @@
-*{
-    font-family: segoe ui;
-}
-
 form{
     width: 31%;
     border-radius: 40px;
     border: 2px orange solid;
-    margin: 150px auto;
+    margin: 50px auto;
     padding: 5%;
 }
  
